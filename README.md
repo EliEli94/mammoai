@@ -20,3 +20,16 @@ MammoAI is a web application built with Django, designed to assist radiologists 
    git clone https://github.com/yourusername/mammoai.git
    cd mammoai
    ```
+2 Create a virtual environment and activate it:
+```bash
+ python3 -m venv env
+ source env/bin/activate
+```
+3. Install the required packages:
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. Apply migrations:
+   
+5. Start the development server:
+
